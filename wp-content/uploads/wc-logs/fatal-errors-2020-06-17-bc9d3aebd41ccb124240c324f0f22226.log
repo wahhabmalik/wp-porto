@@ -1,0 +1,66 @@
+2020-06-17T09:45:31+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::process() in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php:773
+Stack trace:
+#0 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(164): WYSIJA::croned_queue(false)
+#1 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('queue')
+#2 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'queue')
+#3 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php(1524): WYSIJA_help_cron->run()
+#4 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(288): init_wysija_cron('')
+#5 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\porto_backup\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\porto_backup\wp-settings.php(523): do_act in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php on line 773
+
+2020-06-17T09:50:38+00:00 CRITICAL Uncaught Error: Call to a member function clear() on null in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php:823
+Stack trace:
+#0 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(184): WYSIJA::croned_daily()
+#1 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('daily')
+#2 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'daily')
+#3 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php(1524): WYSIJA_help_cron->run()
+#4 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(288): init_wysija_cron('')
+#5 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\porto_backup\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\porto_backup\wp-settings.php(523): do_action('ini in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php on line 823
+
+2020-06-17T10:49:54+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::process() in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php:773
+Stack trace:
+#0 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(164): WYSIJA::croned_queue(false)
+#1 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('queue')
+#2 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'queue')
+#3 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php(1524): WYSIJA_help_cron->run()
+#4 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(288): init_wysija_cron('')
+#5 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\porto_backup\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\porto_backup\wp-settings.php(523): do_act in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php on line 773
+
+2020-06-17T11:55:20+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::process() in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php:773
+Stack trace:
+#0 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(164): WYSIJA::croned_queue(false)
+#1 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('queue')
+#2 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'queue')
+#3 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php(1524): WYSIJA_help_cron->run()
+#4 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(288): init_wysija_cron('')
+#5 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\porto_backup\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\porto_backup\wp-settings.php(523): do_act in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php on line 773
+
+2020-06-17T13:46:48+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::process() in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php:773
+Stack trace:
+#0 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(164): WYSIJA::croned_queue(false)
+#1 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('queue')
+#2 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'queue')
+#3 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php(1524): WYSIJA_help_cron->run()
+#4 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(288): init_wysija_cron('')
+#5 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\porto_backup\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\porto_backup\wp-settings.php(523): do_act in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php on line 773
+
+2020-06-17T15:00:06+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::process() in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php:773
+Stack trace:
+#0 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(164): WYSIJA::croned_queue(false)
+#1 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(120): WYSIJA_help_cron->run_scheduled_task('queue')
+#2 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\helpers\cron.php(56): WYSIJA_help_cron->check_scheduled_task(Array, 'queue')
+#3 C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php(1524): WYSIJA_help_cron->run()
+#4 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(288): init_wysija_cron('')
+#5 C:\xampp\htdocs\porto_backup\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\porto_backup\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\porto_backup\wp-settings.php(523): do_act in C:\xampp\htdocs\porto_backup\wp-content\plugins\wysija-newsletters\core\base.php on line 773
+

@@ -1,0 +1,13 @@
+[12-Dec-2019 10:55:07 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[12-Dec-2019 19:19:26 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[13-Dec-2019 14:46:23 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[13-Dec-2019 15:27:22 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[19-Dec-2019 14:10:44 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[19-Dec-2019 16:14:55 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[19-Dec-2019 18:22:36 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[20-Dec-2019 04:04:09 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[20-Dec-2019 07:33:23 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[20-Dec-2019 08:15:08 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[20-Dec-2019 09:00:38 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_X25519' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[20-Dec-2019 14:29:42 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[20-Dec-2019 22:56:53 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4

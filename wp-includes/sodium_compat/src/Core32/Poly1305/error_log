@@ -1,0 +1,1 @@
+[21-Dec-2019 19:10:53 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10

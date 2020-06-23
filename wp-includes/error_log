@@ -1,0 +1,180 @@
+[30-Nov-2019 10:33:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-atom.php on line 8
+[30-Nov-2019 11:15:52 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-walker-category.php on line 17
+[30-Nov-2019 13:16:05 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/default-widgets.php on line 11
+[30-Nov-2019 13:16:05 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/default-widgets.php on line 11
+[30-Nov-2019 13:16:05 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/default-widgets.php on line 11
+[30-Nov-2019 13:16:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/default-widgets.php on line 11
+[30-Nov-2019 13:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rss-functions.php on line 9
+[30-Nov-2019 15:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rss.php on line 8
+[30-Nov-2019 16:48:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rdf.php on line 8
+[30-Nov-2019 18:12:23 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-settings.php on line 35
+[30-Nov-2019 18:12:23 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-settings.php on line 35
+[30-Nov-2019 18:12:23 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-settings.php on line 35
+[30-Nov-2019 18:12:23 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-settings.php on line 35
+[30-Nov-2019 20:59:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-feed.php on line 10
+[30-Nov-2019 21:41:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-default-filters.php on line 16
+[30-Nov-2019 21:41:20 America/New_York] PHP Fatal error:  Class 'Requests_Hooks' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-http-requests-hooks.php on line 17
+[30-Nov-2019 23:06:24 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-IXR.php on line 42
+[30-Nov-2019 23:06:24 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-IXR.php on line 42
+[30-Nov-2019 23:06:24 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-IXR.php on line 42
+[30-Nov-2019 23:06:24 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-IXR.php on line 42
+[30-Nov-2019 23:48:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/default-filters.php on line 17
+[30-Nov-2019 23:49:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/spl-autoload-compat.php on line 14
+[01-Dec-2019 03:20:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/registration.php on line 9
+[01-Dec-2019 04:01:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rss2.php on line 8
+[01-Dec-2019 04:43:23 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/script-loader.php on line 20
+[01-Dec-2019 04:43:23 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/script-loader.php on line 20
+[01-Dec-2019 04:43:23 America/New_York] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/script-loader.php on line 20
+[01-Dec-2019 04:43:23 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/script-loader.php on line 20
+[01-Dec-2019 05:24:52 America/New_York] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-feed-cache.php on line 17
+[01-Dec-2019 06:50:16 America/New_York] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[01-Dec-2019 07:32:28 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/functions.php on line 8
+[01-Dec-2019 07:32:28 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/functions.php on line 8
+[01-Dec-2019 07:32:28 America/New_York] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/functions.php on line 8
+[01-Dec-2019 07:32:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/functions.php on line 8
+[01-Dec-2019 08:15:21 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-walker-category-dropdown.php on line 17
+[01-Dec-2019 12:25:30 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-http.php on line 11
+[01-Dec-2019 12:25:30 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-http.php on line 11
+[01-Dec-2019 12:25:30 America/New_York] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-http.php on line 11
+[01-Dec-2019 12:25:30 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-http.php on line 11
+[01-Dec-2019 13:06:48 America/New_York] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[01-Dec-2019 14:29:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-json.php on line 2
+[01-Dec-2019 14:30:18 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-http-requests-response.php on line 17
+[01-Dec-2019 16:33:31 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-simplepie.php on line 5
+[01-Dec-2019 16:33:31 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-simplepie.php on line 5
+[01-Dec-2019 16:33:31 America/New_York] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-simplepie.php on line 5
+[01-Dec-2019 16:33:31 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-simplepie.php on line 5
+[01-Dec-2019 17:15:08 America/New_York] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[01-Dec-2019 17:56:41 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-walker-page.php on line 17
+[01-Dec-2019 17:56:48 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-control.php on line 696
+[01-Dec-2019 17:56:48 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-control.php on line 696
+[01-Dec-2019 17:56:48 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-control.php on line 696
+[01-Dec-2019 17:56:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-control.php on line 696
+[01-Dec-2019 19:20:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rss.php on line 19
+[01-Dec-2019 20:01:41 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/compat.php on line 335
+[01-Dec-2019 20:01:41 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/compat.php on line 335
+[01-Dec-2019 20:01:41 America/New_York] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/compat.php on line 335
+[01-Dec-2019 20:01:41 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/compat.php on line 335
+[01-Dec-2019 22:06:30 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-blogs.php on line 11
+[01-Dec-2019 22:06:30 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-blogs.php on line 11
+[01-Dec-2019 22:06:30 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/ms-site.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-blogs.php on line 11
+[01-Dec-2019 22:06:30 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-site.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/ms-blogs.php on line 11
+[01-Dec-2019 22:06:34 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-walker-page-dropdown.php on line 17
+[02-Dec-2019 00:52:10 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-walker-nav-menu.php on line 17
+[02-Dec-2019 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/registration-functions.php on line 9
+[02-Dec-2019 01:33:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/vars.php on line 23
+[02-Dec-2019 01:34:21 America/New_York] PHP Fatal error:  Class 'IXR_Client' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-http-ixr-client.php on line 8
+[02-Dec-2019 02:58:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-atom-comments.php on line 8
+[02-Dec-2019 03:40:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/date.php on line 11
+[02-Dec-2019 07:07:09 America/New_York] PHP Fatal error:  Class 'SimplePie_File' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-simplepie-file.php on line 17
+[02-Dec-2019 07:48:58 America/New_York] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-image-editor-gd.php on line 16
+[02-Dec-2019 09:12:32 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-setting.php on line 947
+[02-Dec-2019 09:12:32 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-setting.php on line 947
+[02-Dec-2019 09:12:32 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-setting.php on line 947
+[02-Dec-2019 09:12:32 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-setting.php on line 947
+[02-Dec-2019 10:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/embed-template.php on line 11
+[02-Dec-2019 11:18:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-snoopy.php on line 6
+[02-Dec-2019 11:19:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/template-loader.php on line 7
+[02-Dec-2019 11:21:20 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-section.php on line 379
+[02-Dec-2019 11:21:20 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-section.php on line 379
+[02-Dec-2019 11:21:20 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-section.php on line 379
+[02-Dec-2019 11:21:20 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-section.php on line 379
+[02-Dec-2019 12:02:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/locale.php on line 11
+[02-Dec-2019 12:03:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/session.php on line 9
+[02-Dec-2019 12:05:26 America/New_York] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-image-editor-imagick.php on line 16
+[02-Dec-2019 14:45:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/media.php:1604
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/media.php on line 1604
+[02-Dec-2019 16:12:19 America/New_York] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class.wp-scripts.php on line 18
+[02-Dec-2019 18:57:34 America/New_York] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/nav-menu-template.php on line 11
+[02-Dec-2019 18:57:34 America/New_York] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/nav-menu-template.php on line 11
+[02-Dec-2019 18:57:34 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/nav-menu-template.php on line 11
+[02-Dec-2019 18:57:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/nav-menu-template.php on line 11
+[02-Dec-2019 21:43:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/update.php:812
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/update.php on line 812
+[02-Dec-2019 22:25:39 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Dec-2019 02:36:20 America/New_York] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class.wp-styles.php on line 18
+[03-Dec-2019 03:17:43 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-panel.php on line 382
+[03-Dec-2019 03:17:43 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-panel.php on line 382
+[03-Dec-2019 03:17:43 America/New_York] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-panel.php on line 382
+[03-Dec-2019 03:17:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-customize-panel.php on line 382
+[03-Dec-2019 04:42:01 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-walker-comment.php on line 17
+[03-Dec-2019 06:03:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-oembed.php on line 12
+[03-Dec-2019 06:05:26 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/wp-diff.php on line 13
+[03-Dec-2019 06:05:26 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/wp-diff.php on line 13
+[03-Dec-2019 06:05:26 America/New_York] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/wp-diff.php on line 13
+[03-Dec-2019 06:05:26 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/wp-diff.php on line 13
+[03-Dec-2019 06:05:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/feed-rss2-comments.php on line 8
+[03-Dec-2019 07:27:41 America/New_York] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/class-wp-text-diff-renderer-inline.php on line 16

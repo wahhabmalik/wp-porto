@@ -1,0 +1,40 @@
+[07-Dec-2019 08:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/categories.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/categories.php on line 120
+[07-Dec-2019 14:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/rss.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/rss.php on line 160
+[07-Dec-2019 22:52:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/calendar.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/calendar.php on line 78
+[08-Dec-2019 19:02:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/tag-cloud.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/tag-cloud.php on line 78
+[08-Dec-2019 19:02:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/latest-comments.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/latest-comments.php on line 196
+[08-Dec-2019 23:11:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/latest-posts.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/latest-posts.php on line 177
+[09-Dec-2019 03:22:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/shortcode.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/shortcode.php on line 37
+[09-Dec-2019 04:44:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/archives.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/archives.php on line 143
+[09-Dec-2019 06:50:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/search.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/search.php on line 93
+[09-Dec-2019 08:55:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/block.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/blocks/block.php on line 48

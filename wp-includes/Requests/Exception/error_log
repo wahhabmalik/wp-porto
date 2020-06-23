@@ -1,0 +1,2 @@
+[11-Dec-2019 13:50:24 America/New_York] PHP Fatal error:  Class 'Requests_Exception' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/Requests/Exception/HTTP.php on line 13
+[11-Dec-2019 15:15:49 America/New_York] PHP Fatal error:  Class 'Requests_Exception' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/Requests/Exception/Transport.php on line 3

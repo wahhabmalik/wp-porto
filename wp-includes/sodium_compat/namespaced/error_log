@@ -1,0 +1,3 @@
+[09-Dec-2019 01:18:07 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Crypto' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[10-Dec-2019 04:23:44 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_File' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/File.php on line 4
+[10-Dec-2019 15:30:05 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Compat' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/namespaced/Compat.php on line 4

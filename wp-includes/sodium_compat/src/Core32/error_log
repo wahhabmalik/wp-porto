@@ -1,0 +1,13 @@
+[16-Dec-2019 09:41:22 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[16-Dec-2019 10:26:08 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[18-Dec-2019 13:49:35 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[19-Dec-2019 16:58:37 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[19-Dec-2019 19:46:10 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[19-Dec-2019 21:48:34 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[20-Dec-2019 04:04:22 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[20-Dec-2019 06:09:07 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_HSalsa20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[20-Dec-2019 10:19:40 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[20-Dec-2019 13:50:36 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[20-Dec-2019 15:59:01 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Salsa20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[21-Dec-2019 01:02:19 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_HChaCha20' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[21-Dec-2019 08:04:26 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10

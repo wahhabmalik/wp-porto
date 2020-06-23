@@ -1,0 +1,1 @@
+[12-Dec-2019 14:58:23 America/New_York] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17

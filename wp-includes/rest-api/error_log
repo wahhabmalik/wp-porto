@@ -1,0 +1,1 @@
+[07-Dec-2019 01:52:35 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

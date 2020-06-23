@@ -1,0 +1,1 @@
+[09-Dec-2019 11:02:11 America/New_York] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/Requests/Auth/Basic.php on line 18

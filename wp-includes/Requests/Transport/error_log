@@ -1,0 +1,2 @@
+[11-Dec-2019 06:11:51 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/Requests/Transport/cURL.php on line 15
+[11-Dec-2019 13:09:15 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/Requests/Transport/fsockopen.php on line 15

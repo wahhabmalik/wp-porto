@@ -1,0 +1,4 @@
+[09-Dec-2019 01:17:36 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[10-Dec-2019 08:32:44 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/SimplePie/Cache/DB.php on line 51
+[10-Dec-2019 15:29:31 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/SimplePie/Cache/File.php on line 51
+[11-Dec-2019 06:50:25 America/New_York] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/SimplePie/Cache/MySQL.php on line 57

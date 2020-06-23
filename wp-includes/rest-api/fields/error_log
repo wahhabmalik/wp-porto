@@ -1,0 +1,4 @@
+[11-Dec-2019 16:38:53 America/New_York] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[12-Dec-2019 07:17:17 America/New_York] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[12-Dec-2019 22:37:26 America/New_York] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[13-Dec-2019 04:54:49 America/New_York] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17

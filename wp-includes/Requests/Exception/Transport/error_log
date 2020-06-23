@@ -1,0 +1,1 @@
+[20-Dec-2019 10:19:48 America/New_York] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/oppoiuzn/demo.ellipsistechs.com/wp-includes/Requests/Exception/Transport/cURL.php on line 3
